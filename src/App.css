@@ -1,0 +1,120 @@
+body{
+  background-color: rgb(170, 163, 163);
+}
+
+ul li{
+  display: inline;
+  padding-left: 100px;
+}
+ul{
+  text-align: center;
+}
+li:hover{
+  color:aqua
+}
+.head{
+  border: 1px solid;
+  background-color: red;
+  padding-top:25px;
+  height: 80px;
+  color: white;
+  font-size: large;
+  font-weight: bolder;
+}
+
+
+
+.table table {
+  width: 70%;
+  border-collapse: collapse;
+  margin: 100px 200px ;
+}
+.table th, .table td {
+  border: 1px solid #1404f5;
+  text-align: center;
+  padding: 8px;
+  height: 50px;
+}
+.table th {
+  background-image: linear-gradient(rgb(95, 251, 5),rgb(248, 211, 45));
+  color: blue;
+  font-weight: bolder;
+}
+.table tr:hover {
+  background-color: #54fbab;
+}
+tr:nth-child(odd){
+  background-color: #f5a6df ;
+}
+tr:nth-child(even){
+  background-color: #b7f171 ;
+}
+
+/*Footer*/
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.footer {
+  margin-top: auto;
+  background-color:antiquewhite; /* Example background color */
+  padding: 10px;
+  text-align: center;
+  color:darkblue;
+  font-size: large;
+  font-weight: bolder;
+}
+
+/* Form*/
+
+.form{
+  border: 3px solid blueviolet;
+  padding: 50px;
+  width: 25%;
+  height: 300px;
+  margin:50px 550px;
+border-radius: 4px;
+background-color: rgb(255, 193, 111);
+}
+
+input{
+  width: 250px;
+  height: 50px;
+  margin-left: 10px;
+  box-shadow: 100px;
+  border:2px solid red;
+  border-radius: 6px;
+
+}
+input:hover{
+  background-color: #b7f171;
+}
+label{
+  text-shadow: #1404f5;
+  font-size: larger;
+  font-weight: bold;
+  color: blue;
+}
+#name,#mail{
+  margin-left: 45px;
+}
+button{
+  width: 70px;
+  height: 50px;
+  text-align: center;
+  background-color: mediumblue;
+  color: white;
+}
+button:hover{
+  background-color: #b7f171;
+  color: red;
+}
