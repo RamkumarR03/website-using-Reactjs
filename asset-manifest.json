@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/RamkumarR03/website-using-Reactjs/static/css/main.d5381e83.css",
-    "main.js": "/RamkumarR03/website-using-Reactjs/static/js/main.6b41279f.js",
-    "index.html": "/RamkumarR03/website-using-Reactjs/index.html",
-    "main.d5381e83.css.map": "/RamkumarR03/website-using-Reactjs/static/css/main.d5381e83.css.map",
-    "main.6b41279f.js.map": "/RamkumarR03/website-using-Reactjs/static/js/main.6b41279f.js.map"
+    "main.css": "/website-using-Reactjs/static/css/main.d5381e83.css",
+    "main.js": "/website-using-Reactjs/static/js/main.6b41279f.js",
+    "index.html": "/website-using-Reactjs/index.html",
+    "main.d5381e83.css.map": "/website-using-Reactjs/static/css/main.d5381e83.css.map",
+    "main.6b41279f.js.map": "/website-using-Reactjs/static/js/main.6b41279f.js.map"
   },
   "entrypoints": [
     "static/css/main.d5381e83.css",
